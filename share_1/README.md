@@ -6,7 +6,7 @@
 
 内容： 讲解JAVA基础以及重要知识点，增强JAVA知识点的掌握
 
-链接： https://github.com/BlueLine-HIT/Shares/new/master/share_1/蓝线分享会.pptx?raw=true
+链接： [蓝线分享会.pptx](https://github.com/BlueLine-HIT/Shares/new/master/share_1/蓝线分享会.pptx)
 
 ## Git简单实用教程
 
