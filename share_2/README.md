@@ -12,6 +12,6 @@
 
 分享人： 王志强
 
-内容： 
+内容： JavaWeb的基础知识篇——JSP与Servlet.
 
-链接： 
+链接： https://github.com/BlueLine-HIT/Shares/blob/master/share_2/servlet%e4%b8%8ejsp.pptx
